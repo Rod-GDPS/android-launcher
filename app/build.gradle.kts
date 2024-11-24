@@ -11,7 +11,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.geode.launcher-rodgdps"
+        applicationId = "com.geode.rodlauncher"
         minSdk = 23
         targetSdk = 35
         versionCode = 19
@@ -79,7 +79,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.geode.launcher"
+    namespace = "com.geode.rodlauncher"
     ndkVersion = "27.2.12479018"
 }
 
