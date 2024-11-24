@@ -11,7 +11,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.geode.launcher"
+        applicationId = "com.geode.launcher-rodgdps"
         minSdk = 23
         targetSdk = 35
         versionCode = 19
